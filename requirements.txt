@@ -1,0 +1,8 @@
+langchain==0.3.27
+langgraph==0.6.8
+langchain-openai==0.3.33
+langchain-community==0.3.30
+langchain-tavily==0.2.11
+langchain-experimental==0.3.4
+matplotlib==3.10.6
+ipython==9.6.0
